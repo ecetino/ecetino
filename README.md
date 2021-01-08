@@ -4,7 +4,7 @@
 
 Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on  LinkedIn [![LinkedIn][3.2]][3] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/) or by email at cetino-e@hotmail.com.
 
-## &#x270d; Recent Projects
+## &#x1f4bb; Recent Projects
 
 Filler
 
