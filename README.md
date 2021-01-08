@@ -2,7 +2,7 @@
 
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please reach out to me with any questions by email at cetino-e@hotmail.com or on [![LinkedIn][3.2]][3] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/).
+Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please reach out to me with any questions by email at cetino-e@hotmail.com or on LinkedIn[![LinkedIn][3.2]][3] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/).
 
 ## &#x270d; Blog & Writing
 
@@ -45,21 +45,18 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/ecetino
+[3]: https://www.linkedin.com/in/ecetino/
 
 
 <!-- Resources -->
