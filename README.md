@@ -2,7 +2,7 @@
 
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on [![LinkedIn][3.2]] LinkedIn [3] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/) or by email at cetino-e@hotmail.com.
+Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on [![LinkedIn][3.2]][3] LinkedIn  at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/) or by email at cetino-e@hotmail.com.
 
 ## &#x270d; Blog & Writing
 
