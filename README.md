@@ -4,9 +4,9 @@
 
 Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on  LinkedIn [![LinkedIn][3.2]][3] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/) or by email at cetino-e@hotmail.com.
 
-## &#x270d; Blog & Writing
+## &#x270d; Recent Projects
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Filler
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
