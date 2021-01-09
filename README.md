@@ -49,7 +49,8 @@ An open-source E-commerce application for sports equipment with service-oriented
 <a href="https://github.com/ecetino/ecetino">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecetino&show_icons=true&line_height=27&count_private=true&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" alt="Edgar's GitHub Stats" />
 </a>
-<div>   <div/>
+<br/>
+<br/>
 <a href="https://github.com/ecetino/ecetino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecetino&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
 </a>
