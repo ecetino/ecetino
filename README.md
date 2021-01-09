@@ -9,14 +9,31 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
 Filler
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Language-SASS-informational?style=flat&logo=sass3&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Babel-informational?style=flat&logo=babel&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Styled Components-informational?style=flat&logo=styled-components&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Amazon AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Testing-New Relic-informational?style=flat&logo=new-relic&logoColor=white&color=1152ba)
 
 ## &#x1f4c8; GitHub Stats
 
