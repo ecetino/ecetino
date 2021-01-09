@@ -12,11 +12,11 @@ An open-source training application designed to introduce the user to using eye 
 <br/>
 <b>Destination Adventure</b><br/>
 [github.com/group2-SDC/destination-adventure](https://github.com/group2-SDC/destination-adventure)<br/>
-An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
+An open-source service-oriented travel platform for booking and exploring trips.<br/>
 <br/>
-<b>Lazy Eye Trainer</b><br/>
+<b>Slam Dunk Supplies</b><br/>
 [github.com/group2-fec/slam-dunk-supplies](https://github.com/group2-fec/slam-dunk-supplies)<br/>
-An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
+An open-source E-commerce application for sports equipment with service-oriented.<br/>
 <br/>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
