@@ -11,7 +11,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
 An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
 <br/>
 <b>Destination Adventure</b><br/>
-[github.com/group2-SDC/destination-adventure](https://github.com/group2-SDC/destination-adventure)<br/>
+[github.com/trips-ahoy/destination-adventure](https://github.com/trips-ahoy/destination-adventure)<br/>
 An open-source service-oriented travel platform for booking and exploring trips.<br/>
 <br/>
 <b>Slam Dunk Supplies</b><br/>
