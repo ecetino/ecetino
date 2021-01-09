@@ -6,7 +6,9 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
 
 ## &#x1f4bb; Recent Projects
 
-Filler
+<b>Lazy Eye Trainer</b>
+[github.com/ecetino/lazy-eye-trainer](https://github.com/ecetino/lazy-eye-trainer
+An open-source training application designed to introduce the user to using eye tracking for cursor movement.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
@@ -17,7 +19,6 @@ Filler
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Babel-informational?style=flat&logo=babel&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=1152ba)
