@@ -22,18 +22,18 @@ Filler
 ![](https://img.shields.io/badge/Tools-Babel-informational?style=flat&logo=babel&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-Styled Components-informational?style=flat&logo=styled-components&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Tools-Amazon AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=1152ba)
-![](https://img.shields.io/badge/Testing-New Relic-informational?style=flat&logo=new-relic&logoColor=white&color=1152ba)
+![](https://img.shields.io/badge/Testing-New_Relic-informational?style=flat&logo=new-relic&logoColor=white&color=1152ba)
 
 ## &#x1f4c8; GitHub Stats
 
