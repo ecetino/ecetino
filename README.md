@@ -17,7 +17,7 @@ An open-source service-oriented travel platform for booking and exploring trips.
 <b>Slam Dunk Supplies</b><br/>
 [github.com/group2-fec/slam-dunk-supplies](https://github.com/group2-fec/slam-dunk-supplies)<br/>
 An open-source E-commerce application for sports equipment with service-oriented.<br/>
-<br/>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=1152ba)
@@ -49,6 +49,7 @@ An open-source E-commerce application for sports equipment with service-oriented
 <a href="https://github.com/ecetino/ecetino">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecetino&show_icons=true&line_height=27&count_private=true&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" alt="Edgar's GitHub Stats" />
 </a>
+<br/>
 <a href="https://github.com/ecetino/ecetino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecetino&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
 </a>
