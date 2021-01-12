@@ -2,7 +2,17 @@
 
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on  LinkedIn [![LinkedIn][1.1]][1] at [linkedin.com/in/ecetino](https://www.linkedin.com/in/ecetino/) or by email at cetino-e@hotmail.com.
+Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on LinkedIn or by email using the links below.
+
+<!-- LinkedIn Contact -->
+<a href="https://www.linkedin.com/in/ecetino/" target="_blank">
+  <img src="https://img.shields.io/badge/-Edgar%20Cetino-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+  
+<!-- Email -->
+<a href="mailto:cetino-e@hotmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-cetino-e@hotmail.com-1152ba?style=for-the-badge"/>
+</a>
 
 ## &#x1f4bb; Recent Projects
 
@@ -54,20 +64,3 @@ An open-source E-commerce application for sports equipment with service-oriented
 <a href="https://github.com/ecetino/ecetino">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecetino&layout=compact&hide=java,html&title_color=1152ba&text_color=000&icon_color=1152ba&bg_color=ffffff" />
 </a>
-
-<!-- icons without padding -->
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/ecetino/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
