@@ -11,7 +11,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
   
 <!-- Email -->
 <a href="mailto:cetino-e@hotmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-cetino--e%40hotmail.com-1152ba"/>
+  <img src="https://img.shields.io/badge/EMAIL-cetino--e%40hotmail.com-1152ba?style=for-the-badge"/>
 </a>
 
 ## &#x1f4bb; Recent Projects
