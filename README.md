@@ -9,7 +9,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
   <img src="https://img.shields.io/badge/-Edgar%20Cetino-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
   
-<!-- Email -->
+<!--   Email -->
 <a href="mailto:cetino-e@hotmail.com">
   <img src="https://img.shields.io/badge/EMAIL-cetino--e%40hotmail.com-1152ba?style=for-the-badge"/>
 </a>
