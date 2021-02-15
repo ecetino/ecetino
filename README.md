@@ -14,7 +14,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
   <img src="https://img.shields.io/badge/EMAIL-cetino--e%40hotmail.com-1152ba?style=for-the-badge"/>
 </a>
 
-## &#x1f4bb; Recent Projects
+## &#x1f4bb; Recent Projects 
 
 <b>Lazy Eye Trainer</b><br/>
 [github.com/ecetino/lazy-eye-trainer](https://github.com/ecetino/lazy-eye-trainer)<br/>
