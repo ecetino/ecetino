@@ -4,6 +4,8 @@
 
 Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA. Thanks for taking the time to look into my github and please feel free to reach out to me with any questions on LinkedIn or by email using the links below.
 
+Portfolio: [edgarcetino.com](https://www.edgarcetino.com/)
+
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/ecetino/" target="_blank">
   <img src="https://img.shields.io/badge/-Edgar%20Cetino-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
