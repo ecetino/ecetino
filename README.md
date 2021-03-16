@@ -12,8 +12,8 @@ Portfolio: [edgarcetino.com](https://www.edgarcetino.com/)
 </a>
   
 <!--   Email -->
-<a href="mailto:cetino-e@hotmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-cetino--e%40hotmail.com-1152ba?style=for-the-badge"/>
+<a href="mailto:1cetino.e@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-1.cetino-.e%40gmail.com-1152ba?style=for-the-badge"/>
 </a>
 
 ## &#x1f4bb; Recent Projects 
