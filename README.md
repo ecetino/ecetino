@@ -21,7 +21,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
             
 ## &#x1f4bb; Recent Projects 
 
-<b margin-right='10px'>Eye Browser</b>
+<b margin-right='10px'>Eye Browser</b><br/>
 <a href="https://www.edgarcetino.com" target="_blank">
   <img src="https://img.shields.io/badge/Github%20Repo-Eye%20Browser-1152ba?style=flat-square"/>
 </a><br/>
