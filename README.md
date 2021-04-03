@@ -19,7 +19,7 @@ Portfolio: [edgarcetino.com](https://www.edgarcetino.com/)
 ## &#x1f4bb; Recent Projects 
 
 <b>Eye Browser</b><br/>
-<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail' alt='eye-browser-thumbnail' width='50px'/>
+<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail' alt='eye-browser-thumbnail' width='200px'/>
 [github.com/ecetino/eye-browser](https://github.com/ecetino/eye-browser)<br/>
 An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
 <br/>
