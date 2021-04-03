@@ -21,15 +21,18 @@ Portfolio: [edgarcetino.com](https://www.edgarcetino.com/)
 <b>Eye Browser</b><br/>
 [github.com/ecetino/eye-browser](https://github.com/ecetino/eye-browser)<br/>
 An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
-<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail' alt='eye-browser-thumbnail' width='500px'/><br/>
+<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail' alt='eye-browser-thumbnail' width='500px'/>
 <br/>
 <b>Trips Ahoy</b><br/>
 [github.com/trips-ahoy/tours-service](https://github.com/trips-ahoy/tours-service)<br/>
 An open-source service-oriented travel platform for booking and exploring trips.<br/>
+<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/trips-ahoy-thumbnail' alt='trips-ahoy-thumbnail' width='500px'/>
 <br/>
 <b>Slam Dunk Supplies</b><br/>
 [github.com/Slam-Dunk-Supplies/gallery](https://github.com/Slam-Dunk-Supplies/gallery)<br/>
 An open-source E-commerce application for sports equipment with service-oriented.<br/>
+<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/slam-dunk-supplies-thumbnail' alt='slam-dunk-supplies-thumbnail' width='500px'/>
+<br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1152ba)
