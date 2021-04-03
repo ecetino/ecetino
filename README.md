@@ -21,7 +21,7 @@ Portfolio: [edgarcetino.com](https://www.edgarcetino.com/)
 <b>Eye Browser</b><br/>
 [github.com/ecetino/eye-browser](https://github.com/ecetino/eye-browser)<br/>
 An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
-<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail1' alt='eye-browser-thumbnail' width='500px'/>
+<img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail' alt='eye-browser-thumbnail' width='500px'/>
 <br/>
 <b>Trips Ahoy</b><br/>
 [github.com/trips-ahoy/tours-service](https://github.com/trips-ahoy/tours-service)<br/>
