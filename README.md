@@ -22,7 +22,7 @@ Hello! My name is Edgar Cetino and I am a software engineer based in Seattle, WA
 ## &#x1f4bb; Recent Projects 
 
 <b margin-right='10px'>Eye Browser</b><br/>
-[github.com/eye-browser](https://github.com/eye-browser)<br/>
+[github.com/ecetino/eye-browser](https://github.com/ecetino/eye-browser)<br/>
 An open-source training application designed to introduce the user to using eye tracking for cursor movement.<br/>
 <img src='https://my-misc-items.s3-us-west-1.amazonaws.com/eye-browser-thumbnail1' alt='eye-browser-thumbnail' width='500px'/>
 <br/>
